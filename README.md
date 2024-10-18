@@ -34,7 +34,7 @@ The `main()` function controls the game flow:
 4. Players can choose to play again or exit after each game.
 
 ## Example Output
-   `` Tic-Tac-Toe Game
+   ``' Tic-Tac-Toe Game
   =======================
          |     |       
       1  |  2  |  3    
