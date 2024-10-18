@@ -1,4 +1,4 @@
-<h1 align="center">Calculator</h1>
+<h1 align="center">Tic-Tac-Toe Game</h1>
 
 ## Project Description
 This is a simple console-based **Tic-Tac-Toe** game implemented in C++.
