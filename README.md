@@ -2,7 +2,8 @@
   <strong># Tic-Tac-Toe Game</strong>
 </p>
 
-This is a simple console-based Tic-Tac-Toe game implemented in C++. The game allows two players to take turns in placing their marks ('X' and 'O') on a 3x3 grid until a player wins or the game ends in a tie.
+## Project Description
+This is a simple console-based **Tic-Tac-Toe** game implemented in C++. The game allows two players to take turns in placing their marks ('X' and 'O') on a 3x3 grid until a player wins or the game ends in a tie.
 
 ## Features
 
