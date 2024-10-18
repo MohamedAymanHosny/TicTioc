@@ -3,11 +3,11 @@
 ## Project Description
 This is a simple console-based **Tic-Tac-Toe** game implemented in C++. The game allows two players to take turns in placing their marks ('X' and 'O') on a 3x3 grid until a player wins or the game ends in a tie.
 
-## Features
-
-- **Interactive Gameplay**: Players can input their chosen positions to place their marks on the grid.
-- **Win/Tie Detection**: The game checks for winning conditions after each move and declares the winner or indicates a tie when appropriate.
-- **Replay Option**: After a game ends, players are prompted to play again. If they choose to do so, the game resets to its initial state.
+### Features
+- **Two-Player Mode**: Players can take turns placing their marks on the grid.
+- **Win Condition**: The game checks for a winning condition after each turn.
+- **Draw Condition**: The game also checks for a tie if all positions are filled without a winner.
+- **User-Friendly Interface**: The game displays the grid clearly in the console for easy visibility.
 
 ## Code Structure
 
