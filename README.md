@@ -1,7 +1,9 @@
 <h1 align="center">Calculator</h1>
 
 ## Project Description
-This is a simple console-based **Tic-Tac-Toe** game implemented in C++. The game allows two players to take turns in placing their marks ('X' and 'O') on a 3x3 grid until a player wins or the game ends in a tie.
+This is a simple console-based **Tic-Tac-Toe** game implemented in C++.
+The game allows two players to take turns in placing their marks ('X' and 'O') on a 3x3 grid
+until a player wins or the game ends in a tie.
 
 ### Features
 - **Two-Player Mode**: Players can take turns placing their marks on the grid.
