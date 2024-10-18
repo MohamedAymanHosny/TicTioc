@@ -35,7 +35,7 @@ The `main()` function controls the game flow:
 
 ## Example Output
    ``` Tic-Tac-Toe Game
-  =======================
+  
          |     |       
       1  |  2  |  3    
     _____|_____|_____
